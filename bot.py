@@ -1,5 +1,4 @@
 import time
-from ast import Await
 
 
 def animacaoJogoDaVelha(tempo, vezes, string, tamString):
